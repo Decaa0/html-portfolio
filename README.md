@@ -1,7 +1,7 @@
 ---
 name: Yoswat Amornvitkijvecha
 slug: html-starter-with-analytics
-deployUrl:[**Portfolio**](https://html-portfolio-ab92.vercel.app/)
+deployUrl: [**Portfolio**](https://html-portfolio-ab92.vercel.app/)
 relatedTemplates:
   - nextjs-boilerplate
 ---
